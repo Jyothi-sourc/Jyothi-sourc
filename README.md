@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Identifying Objectives
 - 📫 How to reach me jyothisuny@gmail.com/+1(614)-758-8765
 - 😄 Pronouns: she/Her
-- ⚡ Fun fact:Funfactc is nothing but telling fact
+- ⚡ Fun fact:Funfact is nothing but telling fact
 
 <!---
 Jyothi-sourc/Jyothi-sourc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
