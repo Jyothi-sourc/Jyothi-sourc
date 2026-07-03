@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jyothi Madamanchi
+- 👋 Hi, I’m @Jyothi 
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning on CRM
 - 💞️ I’m looking to collaborate on Identifying Objectives
